@@ -1,0 +1,1 @@
+ const unsigned char FirstFrameworkVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:FirstFramework  PROJECT:FirstFramework-1" "\n"; const double FirstFrameworkVersionNumber __attribute__ ((used)) = (double)1.;

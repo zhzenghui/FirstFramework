@@ -1,0 +1,33 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Volumes/mac/Users/\u6587\u4EF6/gitbucket/ZHWorkspace/ZHWorkspace/FirstFramework/Release-iphonesimulator/FirstFramework.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "FirstFramework-Swift.h",
+          'external-contents': "/Volumes/mac/Users/\u6587\u4EF6/gitbucket/ZHWorkspace/ZHWorkspace/FirstFramework/Release-iphonesimulator/FirstFramework.framework/Headers/FirstFramework-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "FirstFramework.h",
+          'external-contents': "/Volumes/mac/Users/\u6587\u4EF6/gitbucket/ZHWorkspace/ZHWorkspace/FirstFramework/FirstFramework/FirstFramework.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Volumes/mac/Users/\u6587\u4EF6/gitbucket/ZHWorkspace/ZHWorkspace/FirstFramework/Release-iphonesimulator/FirstFramework.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Volumes/mac/Users/\u6587\u4EF6/gitbucket/ZHWorkspace/ZHWorkspace/FirstFramework/build/FirstFramework.build/Release-iphonesimulator/FirstFramework.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}
